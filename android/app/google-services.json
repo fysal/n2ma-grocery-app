@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "254598315678",
+    "firebase_url": "https://n2ma-app.firebaseio.com",
+    "project_id": "n2ma-app",
+    "storage_bucket": "n2ma-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254598315678:android:cd1d1269d16020a70e458f",
+        "android_client_info": {
+          "package_name": "com.example.n2ma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254598315678-ugkmdff5499c1ghg20faqvr9o7dilvn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.n2ma",
+            "certificate_hash": "f089fc42ef37e872ceea36e029f52f5bee27a83f"
+          }
+        },
+        {
+          "client_id": "254598315678-4poeos16lojd5ncopqr1enid356o7lqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCylCnp3flEjxx5XTyi9rWRDDcVcsSsXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254598315678-4poeos16lojd5ncopqr1enid356o7lqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

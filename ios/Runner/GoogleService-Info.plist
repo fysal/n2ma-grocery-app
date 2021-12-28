@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>254598315678-ifk5i4mm95vp3t3gul9l832fslnqpbbk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.254598315678-ifk5i4mm95vp3t3gul9l832fslnqpbbk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>254598315678-ugkmdff5499c1ghg20faqvr9o7dilvn1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASxahbcfU_HsokmWkWLnE7_G-oCd2ZceE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>254598315678</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.n2ma</string>
+	<key>PROJECT_ID</key>
+	<string>n2ma-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>n2ma-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:254598315678:ios:ceb6819891fff0480e458f</string>
+	<key>DATABASE_URL</key>
+	<string>https://n2ma-app.firebaseio.com</string>
+</dict>
+</plist>
