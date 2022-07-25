@@ -13,4 +13,5 @@ FirebaseUser user = FirebaseAuth.instance.currentUser() as FirebaseUser;
 Firestore db = Firestore.instance;
 Stream <List<DocumentSnapshot>> get userFav{
   db.collection('favorites').document(user.uid).collection(user.uid);
+  //I;m currious to knowhow this works
 }
